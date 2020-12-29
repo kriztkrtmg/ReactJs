@@ -1,0 +1,35 @@
+.listItemStyle {
+    cursor: pointer;
+}
+
+.listItemStyle:hover {
+    background-color: #dec5c7;
+}
+
+.listStyle{
+    height: 500px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+
+.container-1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.h1 {
+    text-align: center;
+    font-weight: 900px;
+}
+
+.mainDataDisplay {
+    width: 75%;
+    margin: auto;
+    padding: 20px;
+    background-color: #f9fafb;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.3);
+}
+
+
+
